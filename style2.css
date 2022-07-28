@@ -1,0 +1,22 @@
+.carousel-item::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: #000;
+    opacity: 0.7;
+}
+
+.carousel-caption {
+    bottom: 250px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.carousel-caption h1 {
+    font-size: 80px;
+    font-weight: 700;
+}
