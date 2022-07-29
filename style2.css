@@ -11,12 +11,14 @@
 }
 
 .carousel-caption {
-    bottom: 250px;
+    bottom: 100px;
     padding-left: 100px;
     padding-right: 100px;
 }
 
 .carousel-caption h1 {
-    font-size: 80px;
-    font-weight: 700;
+    font-size: 70px;
+    font-weight: 600;
 }
+
+#Register {}
